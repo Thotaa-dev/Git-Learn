@@ -3,7 +3,7 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Byee..........");
         System.out.println("Byee..........");
-        System.out.println("thota branch 1st update");
+        System.out.println("thota branch");
     }
     void sum(){
         System.out.println("Sum is");
