@@ -7,6 +7,6 @@ public class HelloWorld {
     }
     void sum(){
         System.out.println("Sum is");
-
+        System.out.println("Addition is");
     }
 }
