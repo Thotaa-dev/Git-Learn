@@ -9,7 +9,7 @@ public class HelloWorld {
         System.out.println("Sum is");
         System.out.println("Addition is");
     } void sub(){
-        System.out.println("Sub is");
+        System.out.println("thota required");
 
     }
 }
