@@ -5,4 +5,7 @@ public class HelloWorld {
         System.out.println("Byee..........");
         System.out.println("thota branch 1st update");
     }
+    void sum(){
+        System.out.println("Addition is");
+    }
 }
