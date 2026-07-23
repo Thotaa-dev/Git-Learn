@@ -5,10 +5,7 @@ public class HelloWorld {
         System.out.println("Byee..........");
         System.out.println("thota branch");
     }
-    void sum(){
-        System.out.println("Sum is");
-    } void sub(){
-        System.out.println("thota required");
-
+    void thota(){
+        System.out.println("Thota Branch");
     }
 }
