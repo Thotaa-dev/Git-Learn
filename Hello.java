@@ -8,7 +8,5 @@ public class HelloWorld {
     void thota(){
         System.out.println("Thota Branch");
         System.out.println("other dev update ");
-
-        System.out.println("my change update");
     }
 }
