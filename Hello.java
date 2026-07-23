@@ -7,5 +7,7 @@ public class HelloWorld {
     }
     void thota(){
         System.out.println("Thota Branch");
+                System.out.println("Thota Branch");
+
     }
 }
